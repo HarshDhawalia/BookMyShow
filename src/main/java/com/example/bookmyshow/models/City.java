@@ -13,10 +13,5 @@ import java.util.List;
 public class City extends BaseModel {
     private String name;
     @OneToMany
-<<<<<<< HEAD
     private List<Theatre> theatres;
 }
-=======
-    private List<Theatre>  theatre;
-}
->>>>>>> 772c09ab832c4860fb9ab7f29e86e2ddc4b72040
