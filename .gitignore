@@ -31,3 +31,22 @@ build/
 
 ### VS Code ###
 .vscode/
+<<<<<<< HEAD
+=======
+
+# Maven
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Environment
+.env
+>>>>>>> 772c09ab832c4860fb9ab7f29e86e2ddc4b72040

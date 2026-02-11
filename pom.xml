@@ -5,7 +5,11 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
+<<<<<<< HEAD
         <version>4.0.2</version>
+=======
+        <version>3.5.10</version>
+>>>>>>> 772c09ab832c4860fb9ab7f29e86e2ddc4b72040
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
@@ -36,7 +40,11 @@
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
+<<<<<<< HEAD
             <artifactId>spring-boot-starter-webmvc</artifactId>
+=======
+            <artifactId>spring-boot-starter-web</artifactId>
+>>>>>>> 772c09ab832c4860fb9ab7f29e86e2ddc4b72040
         </dependency>
 
         <dependency>
@@ -51,12 +59,16 @@
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
+<<<<<<< HEAD
             <artifactId>spring-boot-starter-data-jpa-test</artifactId>
             <scope>test</scope>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-webmvc-test</artifactId>
+=======
+            <artifactId>spring-boot-starter-test</artifactId>
+>>>>>>> 772c09ab832c4860fb9ab7f29e86e2ddc4b72040
             <scope>test</scope>
         </dependency>
     </dependencies>
